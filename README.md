@@ -1,7 +1,6 @@
 <html>
   <head>
     <title>appreciation for my baby</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <style>
       img {
         width: 30px;
